@@ -1,0 +1,3 @@
+- Make sure you have Anaconda on your machine
+    - (Anaconda)[https://www.anaconda.com/download]
+- Open LSTM-for-NLP.ipynb in VS Code and click Run All    
